@@ -10,3 +10,5 @@ serah-terima/
 *.bak
 .git-lama/
 .env
+compose.yaml.tetap
+compose.yaml.nonaktif
